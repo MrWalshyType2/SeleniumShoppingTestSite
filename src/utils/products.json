@@ -1,0 +1,122 @@
+[
+    {
+        "id": "3u249898u",
+        "type": "phones",
+        "name": "Telephone 1",
+        "description": "This telephone calls people",
+        "cost": 25.99,
+        "currency": "gbp"
+    },
+    {
+        "id": "dsaff3424",
+        "type": "phones",
+        "name": "Telephone 2",
+        "description": "This telephone texts people",
+        "cost": 22.99,
+        "currency": "gbp"
+    },
+    {
+        "id": "sfa43r43r",
+        "type": "phones",
+        "name": "Telephone 3",
+        "description": "This telephone calls and texts people",
+        "cost": 39.99,
+        "currency": "gbp"
+    },
+    {
+        "id": "dsaf43w43",
+        "type": "phones",
+        "name": "Telephone 4",
+        "description": "This telephone calls and texts people, it also plays games",
+        "cost": 56.99,
+        "currency": "gbp"
+    },
+    {
+        "id": "asdf3r2ew",
+        "type": "phones",
+        "name": "BanterPhone",
+        "description": "This telephone does not function correctly, it's quite banterous when you pick it up",
+        "cost": 1.99,
+        "currency": "gbp"
+    },
+    {
+        "id": "dsaf43rwaq",
+        "type": "phones",
+        "name": "LuxorPhone",
+        "description": "This luxurious phone is shiny, sporting a FakeLux Supreme Edition processor for running your apps.",
+        "cost": 39.99,
+        "currency": "gbp"
+    },
+    {
+        "id": "fa3faqewfw",
+        "type": "phones",
+        "name": "The One",
+        "description": "The One is the first in a long line of ones to come, a one with no rival... The one to make calls, the one to surf the web.",
+        "cost": 39.99,
+        "currency": "gbp"
+    },
+    {
+        "id": "uyf87w9yr",
+        "type": "phones",
+        "name": "Basic Phone",
+        "description": "Does what is says on the tin, nothing more... This phone will do exactly what you went, when you want.",
+        "cost": 10.99,
+        "currency": "gbp"
+    },
+    {
+        "id": "fa3r4rtftr",
+        "type": "phones",
+        "name": "The Large One",
+        "description": "The Large One is the second in a long line of ones to come, a one with no rival... The one to make calls, the one to text, the one to surf the web.",
+        "cost": 59.99,
+        "currency": "gbp"
+    },
+    {
+        "id": "asdfare4w34",
+        "type": "tablets",
+        "name": "Tablet 1",
+        "description": "This tablet can be used for surfing the web",
+        "cost": 80.99,
+        "currency": "gbp"
+    },
+    {
+        "id": "sdfaef34r43",
+        "type": "tablets",
+        "name": "BigTab 1",
+        "description": "This tablet is the BigTab 1, brand new and ready to go. Running 'FakeOS 3'.",
+        "cost": 80.99,
+        "currency": "gbp"
+    },
+    {
+        "id": "r454vf345",
+        "type": "tablets",
+        "name": "BigTab OG",
+        "description": "This tablet is the original BigTab, running 'FakeOS 1' (upgrade to v2 available), with cellular functionality.",
+        "cost": 53.97,
+        "currency": "gbp"
+    },
+    {
+        "id": "f45f43543",
+        "type": "tablets",
+        "name": "BigTab Fitness",
+        "description": "This miniature BigTab can be strapped to your arm, measuring your vitals as you exercise. Runs 'FakeOS Fitness'.",
+        "cost": 30.99,
+        "currency": "gbp"
+    },
+    {
+        "id": "a454w5g4tg",
+        "type": "tablets",
+        "name": "LuxorTab",
+        "description": "This tablet is encrusted in some mysterious metal, it's quite heavy but it looks great! Buy it now!",
+        "cost": 150.99,
+        "currency": "gbp"
+    },
+    {
+        "id": "adf435dads",
+        "type": "laptops",
+        "name": "Laptop 1",
+        "description": "This laptop is slower than a snail",
+        "cost": 99.99,
+        "currency": "gbp"
+    }
+]
